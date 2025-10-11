@@ -1,0 +1,19 @@
+{
+  "name": "item",
+  "shape": [
+    1650,
+    1650
+  ],
+  "created_at": "20251011-194334",
+  "formats": [
+    "parquet",
+    "csv",
+    "pickle"
+  ],
+  "index_type": "<class 'pandas.core.indexes.base.Index'>",
+  "columns_type": "<class 'pandas.core.indexes.base.Index'>",
+  "dtype_summary": [
+    "float64"
+  ],
+  "sparsity": 0.5747742883379247
+}
