@@ -17,5 +17,5 @@ To set your computer ready for git lfs, you should:
   `git lfs install`
 
 3. Track common large file types used in this project:
-   git lfs track "*.pkl"
-   git lfs track "*.joblib"
+   - git lfs track "*.pkl"
+   - git lfs track "*.joblib"
